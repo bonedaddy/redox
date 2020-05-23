@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KLineChart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crypto-database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crypto-signal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-talib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go_trade_aggregation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/goex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gofin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gota" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/node" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/goex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/techan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sfts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/techan" vcs="Git" />
+  </component>
+</project>
